@@ -1,4 +1,4 @@
-# Hong Kong Economy Data
+# China Mainland Economy Data
 *A curated list of economic indicators for the China Mainland.*
 
 ---
